@@ -1,44 +1,72 @@
-# vCard - Personal portfolio
+# Personal Portfolio Website
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
+A modern and responsive **portfolio website** built using **HTML, CSS, and JavaScript**.  
+This website showcases my skills, projects, experience, and contact information in a clean and professional layout.
 
-vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
+---
 
-## Demo
+## 🚀 Features
 
-![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+- Fully responsive design  
+- Hero section with introduction  
+- About section  
+- Skills section (HTML, CSS, JavaScript, etc.)  
+- Projects showcase  
+- Contact form or contact details  
+- Smooth animations & transitions  
+- Mobile-friendly layout  
 
-## Prerequisites
+---
 
-Before you begin, ensure you have met the following requirements:
+## 🛠️ Technologies Used
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+- **HTML5** – Structure  
+- **CSS3** – Styling, animations  
+- **JavaScript (ES6)** – Interactivity  
+- **Font Awesome / Icons**  
+- **Google Fonts**
 
-## Installing vCard
+---
 
-To install **vCard**, follow these steps:
+## 📂 Folder Structure
+portfolio/
+│── index.html
+│── style.css
+│── script.js
+│── /assets
+│ ├── images/
+│ ├── icons/
+│── README.md
 
-Linux and macOS:
+---
 
-```bash
-sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
 
-Windows:
+---
 
-```bash
-git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
+## 📦 How to Use
 
-## Contact
+1. Clone or download this repository  
+2. Open `index.html` in your browser  
+3. Or run a local server like:
 
-If you want to contact me you can reach me at [Twitter](https://www.x.com/codewithsadee_).
 
-## License
+---
 
-MIT
+## ✨ Customization
+
+- Replace the content inside **index.html**
+- Update images in `/assets/images/`
+- Modify colors and fonts in **style.css**
+- Add your own projects inside the **Projects** section
+
+---
+
+## 📬 Contact
+
+If you want to reach me:
+
+- **Email:** pundirkanchan83@gmail.com  
+-
+---
+
+Made with ❤️ using HTML, CSS & JavaScript
