@@ -28,20 +28,6 @@ This website showcases my skills, projects, experience, and contact information 
 
 ---
 
-## 📂 Folder Structure
-portfolio/
-│── index.html
-│── style.css
-│── script.js
-│── /assets
-│ ├── images/
-│ ├── icons/
-│── README.md
-
----
-
-
----
 
 ## 📦 How to Use
 
